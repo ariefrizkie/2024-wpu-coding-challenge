@@ -1,5 +1,5 @@
 // WPU Coding challenge 2024
-// 10/366
+// 11/366
 // https://www.codewars.com/kata/5672a98bdbdd995fad00000f
 
 // const rps = (p1, p2) => {
